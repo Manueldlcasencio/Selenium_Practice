@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium">
+    <test verbose="2" preserve-order="true"
+          name="Selenium Tests">
+        <classes>
+            <class name="TC_001_Registration_Functionality"></class>
+        </classes>
+    </test>
+</suite>
